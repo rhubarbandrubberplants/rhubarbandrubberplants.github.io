@@ -1,10 +1,8 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Rhubarb & Rubber Plants
+author: RhubarbandRubberPlants
+email: ella.schneider@hotmail.co.uk
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Rhubarb & Rubber Plants - eco friendly, eco living, reducing consumption and blogging about it
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -12,21 +10,21 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Adam Denisov
-  tagline: Developer. Designer
+  name: Rhubarb & Rubber Plants
+  tagline: Eco Friendly blogging
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    # twitter: thelehhman
+    github:  RhubarbandRubberPlants
+    # linkedIn: in/thelehhman
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
-    # instagram: jekyll
+    instagram: RhubarbandRubberPlants
     # linkedin: jekyll
     # pinterest: jekyll
     # youtube: jekyll

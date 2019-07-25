@@ -10,3 +10,12 @@
     * `git commit -m "<did a thing>"`
     * `git push`
     * (wait) then new site!
+
+
+### To add images
+* add image to /assets folder
+* add this to the post:
+```
+![image test](http://rhubarbandrubberplants.co.uk/assets/iglogo.png "igloog")
+```
+and update the name, alt, and url!

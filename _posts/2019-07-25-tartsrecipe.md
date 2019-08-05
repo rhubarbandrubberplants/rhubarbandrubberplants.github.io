@@ -11,21 +11,21 @@ Recently I made jarred pepper, tomato, pesto and goat's cheese tarts with red on
 
 Here's the recipe:
 
-Ingredients for the tarts:..
-...250g packet of puff pastry..
-...jar of red peppers..
-...jar of pesto..
-...fresh cherry tomatoes..
-...goat's cheese..
+Ingredients for the tarts:  
+   250g packet of puff pastry  
+   jar of red peppers  
+   jar of pesto  
+   fresh cherry tomatoes  
+   goat's cheese  
 
-Ingredients for the bean salad:..
-...sliced red onion..
-...tin of mixed beans..
-...basil leaves..
-...red wine vinegar..
-...olive oil..
-...lemon juice..
-...salt..
+Ingredients for the bean salad:  
+   sliced red onion  
+   tin of mixed beans  
+   basil leaves  
+   red wine vinegar  
+   olive oil  
+   lemon juice  
+   salt  
 
 The main motivation for this meal was to use up an old frozen packet of puff pastry. Bit annoying that it came inside a plastic packet!
 I rolled out the pastry into a sheet and cut it into 4. Then I spread a spoon of pesto on each sheet, leaving a border. In a bowl, I added some jarred red peppers and cherry tomatoes and squished them together with a spoon. Then I placed this on top of the pesto pastry sheets. Finally, I topped them with slices of hard goat's cheese and baked them in the oven at 180C fan for around 20-30 mins.

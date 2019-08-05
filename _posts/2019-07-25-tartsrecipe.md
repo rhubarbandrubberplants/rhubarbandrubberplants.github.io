@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Pepper, tomato, pesto + goats cheese tarts with bean salad"
+title:  "Pepper, tomato, pesto + goat's cheese tarts with bean salad"
 date:   2019-07-25 12:36:36 +0000
-categories: veggie vegetarian food dinner
+categories: veggie vegetarian tarts pesto beans
 ---
 Recently I made jarred pepper, tomato, pesto and goat's cheese tarts with red onion and mixed bean salad (inspired by jamie oliver's mediterean veg tarts recipe). It was a super easy + delicious veggie dinner. 🍅🌰 Here's the recipe:
 

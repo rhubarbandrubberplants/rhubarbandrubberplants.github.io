@@ -11,14 +11,14 @@ Recently I made jarred pepper, tomato, pesto and goat's cheese tarts with red on
 
 Here's the recipe:
 
-...Ingredients for the tarts:..
+Ingredients for the tarts:..
 ...250g packet of puff pastry..
 ...jar of red peppers..
 ...jar of pesto..
 ...fresh cherry tomatoes..
 ...goat's cheese..
 
-...Ingredients for the bean salad:..
+Ingredients for the bean salad:..
 ...sliced red onion..
 ...tin of mixed beans..
 ...basil leaves..

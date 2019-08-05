@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Things I've bought recently from Lakeland, m&s and zero-waste stall 'twin larder'"
+title:  "Things I've bought recently from lakeland, m&s and zero-waste stall 'twin larder'"
 date:   2019-07-24 12:36:36 +0000
 categories: zero-waste cleaning food-storage 
 ---

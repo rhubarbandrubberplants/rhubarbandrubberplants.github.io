@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "making homemade washing-up liquid"
+title:  "Making homemade washing-up liquid and hand-soap ✨"
 date:   2019-07-25 12:36:36 +0000
 categories: zero-waste cleaning 
 ---
-**Homemade washing-up liquid**
+**Homemade washing-up liquid**  
+
 My partner and I don't have a dishwasher so we get through a lot of washing up liquid! I was concerned about the amount of plastic bottles we were getting through and about the harsh chemicals in some of the washing-up liquids we were using. From what I've read online, making your own is cheap and better for the environment so i thought I'd try it. 
 
 The first recipe i tried was from [onehowto.com](https://home.onehowto.com/article/how-to-make-homemade-eco-friendly-washing-up-liquid-2656.html):
@@ -20,14 +21,15 @@ I let it cool completely before putting it in a bottle. a soapy bubble layer sep
 
 Overall it is quite a watery/liquidy washing up liquid, and it doesnt bubble up with water and it has bits of soap floating through it! But it seems to wash dishes okay so im not too worried that it came out a bit weird/ different to usual washing up liquid! It all fitted in a 500ml bottled which i got from balwin&co! 
 
-**Homemade liquid hand soap**
-I also thought I'd try making liquid hand soap using the same soap I used for the washing up liquid.
+**Homemade liquid hand soap**  
+
+I also thought I'd try making liquid hand soap using the same soap I used for the washing up liquid inspired by this [recipe](https://wellnessmama.com/35665/liquid-hand-soap-recipe/).
 
 Ingredients:
 *150g grated glycerin soap  
 *1.5L water
 
-All I did was boil the water in a saucepan and stir in the soap gratings until they dissolved. Then I let it cool before putting it into a container.  Before this I added 7 drops of lavender essential oil to make it smell nice!
+All I had to do was boil the water in a saucepan and stir in the soap gratings until they dissolved. Then I let it cool before putting it into a container.  Before this I added about 7 drops of lavender essential oil to make it smell nice!
 Just a warning: the glycerin soap can slightly separate feom the water into a big blob. I would recommend stirring thoroughly when its cold before pouring into a bottle. When I did this without stirring it poured out onto the worktop like a dead jellyfish!! + I had to scoop it up. I made quite a lot - I filled up two 250ml amber glass bottles from baldwin&co and a reused 1L ecover hand-soap container.
 
 Will give you an update on whether they work well or not!! ✨

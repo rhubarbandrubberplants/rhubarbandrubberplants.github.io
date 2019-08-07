@@ -11,7 +11,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Rhubarb & Rubber Plants
-  tagline: Eco Friendly Blogging
+  tagline: My Zero-Waste Journey
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 

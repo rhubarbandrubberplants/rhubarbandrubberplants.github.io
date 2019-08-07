@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "🌾🥜🌰Homemade Granola 🌰🥜🌾"
+title:  "Homemade Granola"
 date:   2019-07-28 14:36:36 +0000
-categories: groceries fruit veg zero-waste market
+categories: breakfast homemade zero-waste granola
 ---
-I tried making some granola the other day because we ran out and I wondered, as I was throwing away the plastic packaging it came, how to reduce packaging consumption! So I thought I’d try making my own. I read online from [](). That you should use 6 parts dry ingredients to one part wet. For me,I used half a cup as my measure of one part.
+I tried making some granola the other day because we ran out and I wondered, as I was throwing away the plastic packaging it came, how to reduce packaging consumption! So I thought I’d try making my own using advice from this article on [epicurius.com](https://www.epicurious.com/expert-advice/how-to-make-granola-without-a-recipe-article).  🌰🥜🌾 
+
+The main rule I followed whilst making this was to use 6 parts dry ingredients to one part wet. I used half a cup as my measure of one part.
 
 In my dry ingredients I used: 
  * 3 parts porridge oats 

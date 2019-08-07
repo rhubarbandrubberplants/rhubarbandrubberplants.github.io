@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Courgette, tomato and butter bean pasta 🥒🍅"
+title:  "Courgette, tomato and butter bean pasta"
 date:   2019-07-31 12:36:36 +0000
 categories: dinner vegetarian pasta
 ---

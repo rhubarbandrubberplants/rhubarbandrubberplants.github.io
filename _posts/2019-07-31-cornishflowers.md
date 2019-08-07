@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cornish flowers 🌼"
+title:  "Cornish flowers"
 date:   2019-07-31 11:36:36 +0000
 categories: flowers cornwall
 ---

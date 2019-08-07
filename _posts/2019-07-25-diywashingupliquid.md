@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Making homemade washing-up liquid and hand-soap ✨"
+title:  "Making homemade washing-up liquid and hand-soap"
 date:   2019-07-25 12:36:36 +0000
 categories: zero-waste cleaning 
 ---

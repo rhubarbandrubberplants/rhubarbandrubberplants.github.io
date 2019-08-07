@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🍑🍋🥒"
+title:  "Zero-waste grocery shopping🍑"
 date:   2019-07-28 12:36:36 +0000
 categories: groceries fruit veg zero-waste market
 ---

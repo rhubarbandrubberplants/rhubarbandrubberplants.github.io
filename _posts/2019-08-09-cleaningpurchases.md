@@ -5,7 +5,7 @@ date:   2019-08-09 10:36:36 +0000
 categories: zero-waste cleaning 
 ---
 
-The other day i bought these palm fibre scrubbing brushes and a wooden cleaning brush from muji!  
+The other day i bought these palm fibre scrubbing brushes and a wooden cleaning brush from muji!   
 I'm trying to buy biodegradable cleaning utensils so the impact on the environment won't be so bad when they get thrown away!
 I also bought some soap nuts from Lakeland. Never tried these before but have seen that they can be used to make diy cleaning products or to wash laundry! Only shame was that they came in plastic packaging inside the canvas bag it came in which I didn't realise when I bought them. :(
 

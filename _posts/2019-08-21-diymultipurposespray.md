@@ -2,10 +2,11 @@
 layout: post
 title:  "DIY kitchen spray"
 date:   2019-08-21 13:36:36 +0000
-categories: zero-waste cleaning diy homemade kitchen bathroom
+categories: zero-waste cleaning diy homemade kitchen 
 ---
 
-This DIY cleaning spray was so simple to make! It used these ingredients:
+This DIY cleaning spray was so simple to make! It used the following ingredients...
+
 * Water
 * Vinegar
 * Orange essential oil 

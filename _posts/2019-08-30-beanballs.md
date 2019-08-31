@@ -12,6 +12,7 @@ This recipe was a bit more effort than usual but well worth it!
 Ingredients:
 * potatoes, peeled and cut into chunks
 * diced onion
+* sliced garlic
 * tin of cannellini beans
 * plain flour
 * dried oregano

@@ -5,8 +5,10 @@ date:   2019-08-30 14:36:36 +0000
 categories: vegan recipes
 ---
 I made cannellini bean balls and mash with onion gravy (for two)- another recipe
-from Miguel Barclay's [vegan one pound meals](https://www.amazon.co.uk/Vegan-Pound-Meals-Miguel-Barclay/dp/1472263723). It's good because I'm finding that
-I often have already the ingredients to do a lot of the recipes
+from Miguel Barclay's [vegan one pound meals](https://www.amazon.co.uk/Vegan-Pound-Meals-Miguel-Barclay/dp/1472263723).
+
+So far I'm liking this book because I often already have the ingredients to do
+a lot of the recipes in this book.
 This recipe was a bit more effort than usual but well worth it!
 
 Ingredients:

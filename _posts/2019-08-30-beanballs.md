@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vegan cannellini bean balls and mash with onion gravy"
+title:  "Cannellini bean balls and mash with onion gravy"
 date:   2019-08-30 14:36:36 +0000
 categories: vegan recipes
 ---

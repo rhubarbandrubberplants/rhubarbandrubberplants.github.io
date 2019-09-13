@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "zero-waste diy blusher"
+title:  "Zero-waste diy blusher"
 date:   2019-09-13 13:36:36 +0000
 categories: zero-waste natural makeup blusher homemade
 ---

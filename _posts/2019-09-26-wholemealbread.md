@@ -30,7 +30,7 @@ Ingredients:
     8) Knead the dough for another 100 presses on a worktop.
     9) Shape the dough and put it into your tin.
     10) Cover the tin and leave it to rise in a warm place for 40 minutes.
-    11) Pre-heat the oven to 200$^\circ$C (fan) or 250$^\circ$C.
+    11) Pre-heat the oven to 200℃ (fan) or 250℃.
     12) Uncover and bake the loaf for 40-45 minutes.
     13) Turn the bread out of the tin, tap the base and if it sounds hollow, the bread is cooked.
     14) Leave to cool on a wire rack.

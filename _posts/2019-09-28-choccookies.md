@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Homemade double chocolate cookies"
+title:  "Homemade double-chocolate cookies"
 date:   2019-09-28 08:20:36 +0000
 categories:  homemade cookies vegan zerowaste
 ---

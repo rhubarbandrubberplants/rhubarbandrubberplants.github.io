@@ -6,7 +6,7 @@
 * (Optionally) go to instagram.com and click on the post you want to include. Then click on the menu>embed>then copy the HTML and paste into the markdown file
 * Push to GitHub:
     * `git status`
-    * `git add .`
+    * `git add .` or 'post/nameoffile'
     * `git commit -m "<did a thing>"`
     * `git push`
     * (wait) then new site!

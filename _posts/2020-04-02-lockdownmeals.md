@@ -12,7 +12,7 @@ Miso-tahini tempeh and aubergine rice:
 
 I recently have got into using tempeh which is feremented tofu. It's so good! I used a tofoo one in this meal. 1 pack which cost £3 does 4 servings!  Miso and tahini are two flavours that go so well together so thought I'd try combining it with the tempeh and some other ingredients I needed to use up. I fried an onion, half an aubergine, half a tempeh block, a carrot, 2 garlic cloves and 1 cm of ginger (all diced) in sesame oil. Then I added a couple of big teaspoons of miso and tahini and cooked it down for a while on a fairly high heat (the flavour is better when the aubergine and tempeh crisp up a bit). Meanwhile I cooked some brown rice in a saucepan (white rice would work well too, if not better, as it would be nice and fluffy). It's a good idea to put the brown rice on before frying the veg as it takes longer to cook. Add the cooked rice to the veg along with a sprinkle of frozen peas and a couple of handfuls of spinach. Once the spinach has wilted and the peas defrosted, it's ready to serve.
 
-![image test](http://rhubarbandrubberplants.co.uk/assets/orzo.png"orzo")
+![image test](http://rhubarbandrubberplants.co.uk/assets/orzo.png "orzo")
 
 Medditeranean vegetable orzo:
 This was inspired by a recipe from Miguel's one pound vegan meals book. 
